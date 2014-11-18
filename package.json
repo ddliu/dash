@@ -9,6 +9,7 @@
   "author": "",
   "license": "BSD-2-Clause",
   "devDependencies": {
-    "node-notifier": "~3.0.6"
+    "node-notifier": "~3.0.6",
+    "gulp": "~3.8.5"
   }
 }

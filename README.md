@@ -2,20 +2,16 @@
 
 Personal dashboard, for everything.
 
-Task manager.
+## Usage
 
-## Core Modules
+### CLI
 
-- Sync dashboard: dashboard anywhere
-- Document sync: Dropbox, evernote
-- Notification
-- Plugin system
+```bash
+dashboard task
+```
 
-## Other modules
+### API
 
-- 
-
-## Design
-
-
-## Packages
+```bash
+curl http://server:port/dashboard/task
+```
