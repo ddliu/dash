@@ -17,3 +17,11 @@ Remote control with any devices(through API).
 Notify.
 
 Sync.
+
+## Plan
+
+core => personal toolkit => ...
+
+## Useful packages
+
+https://github.com/codegangsta/cli
